@@ -21,6 +21,7 @@
         p.mb-4 La percepción de la persona mayor permite conocer cómo experimenta las actividades de cuidado, recreación, esparcimiento y seguridad que se desarrollan en su entorno. Su opinión constituye una fuente importante de información para determinar si las acciones implementadas responden a sus necesidades, intereses y expectativas.
         .cajon.cajon.c02.color-primario.px-4.py-3.mb-0
           p.mb-0(data-aos="fade-down") La persona mayor debe tener la oportunidad de expresar libremente lo que piensa, siente y necesita, de acuerdo con sus capacidades de comunicación. El cuidador debe escuchar con atención, respetar sus opiniones y evitar interpretar o decidir por ella cuando pueda expresar directamente sus preferencias.
+    p.mb-4(data-aos="fade-down") Para valorar esta percepción, se pueden considerar aspectos como:
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
       .col-lg-6.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
         LineaTiempoD.color-acento-botones.especial
@@ -87,7 +88,7 @@
     separador
     #t_6_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.3 Seguimiento y ajustes de las actividades
-    p.mb-4(data-aos="fade-down") La seguridad del entorno debe abordarse de manera integral. Además de prevenir caídas, es necesario identificar riesgos relacionados con instalaciones eléctricas, fuentes de calor, medicamentos, productos químicos, alimentos, agua y posibles situaciones de maltrato, negligencia o abandono.
+    //- p.mb-4(data-aos="fade-down") La seguridad del entorno debe abordarse de manera integral. Además de prevenir caídas, es necesario identificar riesgos relacionados con instalaciones eléctricas, fuentes de calor, medicamentos, productos químicos, alimentos, agua y posibles situaciones de maltrato, negligencia o abandono.
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-8.col-12.order-lg-1.order-2
         .cajon.c01.p-4.h-100.w-100

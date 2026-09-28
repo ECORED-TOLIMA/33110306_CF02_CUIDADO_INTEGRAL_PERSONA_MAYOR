@@ -157,7 +157,7 @@
           .tarjeta.color-primario
             .p-4
               h4.text-center Recreativas
-              p.mb-0.text-center Mantener a la persona en una posición incorporada y estable.
+              p.mb-0.text-center Juegos de mesa, rompecabezas, dinámicas grupales y actividades lúdicas.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/img16.svg' alt='')
@@ -255,19 +255,19 @@
               p.mb-0 Pueden desarrollar programas y actividades dirigidos a las personas mayores mediante sus dependencias de desarrollo social, bienestar o cultura.
           .row(numero="2" titulo="Cajas de compensación familiar")
             .col-12.mb-4.mb-md-0
-              p.mb-0 pueden ofrecer actividades recreativas, culturales, deportivas y de integración para diferentes grupos de población.
+              p.mb-0 Pueden ofrecer actividades recreativas, culturales, deportivas y de integración para diferentes grupos de población.
           .row(numero="3" titulo="Centros de día y espacios comunitarios")
             .col-12.mb-4.mb-md-0
-              p.mb-0 pueden desarrollar actividades de recreación, socialización, actividad física y aprovechamiento del tiempo libre.
+              p.mb-0 Pueden desarrollar actividades de recreación, socialización, actividad física y aprovechamiento del tiempo libre.
           .row(numero="4" titulo="Casas de cultura, bibliotecas y centros culturales")
             .col-12.mb-4.mb-md-0
-              p.mb-0 ofrecen espacios para actividades artísticas, culturales, educativas y de encuentro.
+              p.mb-0 Ofrecen espacios para actividades artísticas, culturales, educativas y de encuentro.
           .row(numero="5" titulo="Parques y escenarios deportivos")
             .col-12.mb-4.mb-md-0
-              p.mb-0 permiten realizar actividades físicas, recreativas y de integración, teniendo en cuenta las condiciones y capacidades de la persona mayor.
+              p.mb-0 Permiten realizar actividades físicas, recreativas y de integración, teniendo en cuenta las condiciones y capacidades de la persona mayor.
           .row(numero="6" titulo="Organizaciones comunitarias y grupos de personas mayores")
             .col-12.mb-4.mb-md-0
-              p.mb-0 facilitan encuentros, actividades recreativas, culturales y espacios de participación.
+              p.mb-0 Facilitan encuentros, actividades recreativas, culturales y espacios de participación.
       .col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/t1/img26.png', alt='')

@@ -200,37 +200,37 @@
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img17.svg", alt="").img100.m-auto
-                  p.text-center Leer y seguir las instrucciones del producto, especialmente las relacionadas con su uso, concentración, tiempo de contacto y superficies en las que puede aplicarse.
+                  p.text-center Preparar el espacio, retirando obstáculos y verificando que las superficies sean estables.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img18.svg", alt="").img100.m-auto
-                  p.text-center Utilizar los elementos de protección personal que correspondan al producto y al riesgo de la actividad.
+                  p.text-center Ubicarse correctamente, manteniendo una base de sustentación firme.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img19.svg", alt="").img100.m-auto
-                  p.text-center Realizar higiene de manos antes y después del procedimiento y después de retirar los guantes, cuando estos sean utilizados.
+                  p.text-center Acercarse a la persona mayor, evitando trabajar con los brazos completamente extendidos.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img20.svg", alt="").img100.m-auto
-                  p.text-center Mantener a la persona mayor alejada del área mientras se realiza el procedimiento, especialmente cuando se emplean productos químicos.
+                  p.text-center Utilizar las piernas y el peso corporal para generar el movimiento, en lugar de ejercer fuerza principalmente con la espalda.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img21.svg", alt="").img100.m-auto
-                  p.text-center Garantizar una ventilación adecuada del espacio cuando las características del producto lo requieran.
+                  p.text-center Evitar giros del tronco mientras se realiza esfuerzo; cuando sea necesario cambiar de dirección, mover los pies.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img22.svg", alt="").img100.m-auto
-                  p.text-center No mezclar productos químicos, ya que algunas combinaciones pueden generar sustancias peligrosas.
+                  p.text-center Coordinar el movimiento con la persona mayor, utilizando instrucciones claras y sencillas.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img23.svg", alt="").img100.m-auto
-                  p.text-center Mantener los productos identificados, cerrados y fuera del alcance de la persona mayor, especialmente cuando presenta alteraciones cognitivas.
+                  p.text-center Realizar pausas cuando sean necesarias, especialmente si la persona presenta fatiga, dolor, mareo o dificultad para continuar.
     p.mb-0(data-aos="fade-down") La postura y el movimiento deben adaptarse a cada situación. El objetivo no es únicamente proteger al cuidador, sino facilitar una movilización segura y respetuosa que conserve la participación y autonomía de la persona mayor.
     separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -381,52 +381,52 @@
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img43.svg", alt="").img100.m-auto
-                  p.text-center Informar a la persona mayor sobre el movimiento que se realizará y cómo puede participar.
+                  p.text-center Mantener una postura corporal estable durante la movilización.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img44.svg", alt="").img100.m-auto
-                  p.text-center Valorar sus capacidades, identificando qué movimientos puede realizar por sí misma y qué apoyo requiere.
+                  p.text-center Evitar levantar o sostener cargas superiores a la capacidad física.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img45.svg", alt="").img100.m-auto
-                  p.text-center Preparar el entorno, retirando obstáculos y asegurando que el área de movilización sea estable y suficiente.
+                  p.text-center Mantener la carga o el punto de apoyo cerca del cuerpo cuando corresponda.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img46.svg", alt="").img100.m-auto
-                  p.text-center Aplicar los principios de mecánica corporal, manteniendo una postura estable y evitando sobrecargar la espalda.
+                  p.text-center Evitar giros bruscos del tronco mientras se realiza esfuerzo.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img47.svg", alt="").img100.m-auto
-                  p.text-center Utilizar apoyos o ayudas técnicas cuando estén indicados y disponibles.
+                  p.text-center Utilizar las ayudas técnicas disponibles de manera adecuada.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img48.svg", alt="").img100.m-auto
-                  p.text-center Coordinar los movimientos, utilizando instrucciones sencillas y un ritmo que la persona pueda seguir.
+                  p.text-center Solicitar apoyo de otra persona cuando la movilización lo requiera.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img49.svg", alt="").img100.m-auto
-                  p.text-center Evitar tirar de los brazos o realizar movimientos bruscos, ya que pueden generar dolor o lesiones.
+                  p.text-center Explicar previamente el movimiento y coordinarlo con la persona mayor.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img50.svg", alt="").img100.m-auto
-                  p.text-center Mantener la privacidad y dignidad de la persona durante todo el procedimiento.
+                  p.text-center Evitar tirar de los brazos, manos o cuello de la persona para desplazarla.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img51.svg", alt="").img100.m-auto
-                  p.text-center  Suspender la movilización si aparecen dolor intenso, mareo, dificultad respiratoria, debilidad repentina u otra manifestación que comprometa la seguridad.
+                  p.text-center Revisar periódicamente las condiciones del entorno para prevenir caídas.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img52.svg", alt="").img100.m-auto
-                  p.text-center Solicitar apoyo cuando la movilización supere las capacidades físicas del cuidador o requiera conocimientos o procedimientos especializados.
+                  p.text-center Detener la actividad ante la presencia de dolor, mareo, dificultad respiratoria o cualquier manifestación que comprometa la seguridad.
     p.mb-0(data-aos="fade-down") El uso adecuado de las ayudas técnicas y la aplicación de medidas preventivas permiten disminuir el riesgo de caídas y lesiones, favorecer la movilidad y conservar la participación de la persona mayor en las actividades cotidianas.
 </template>
 <script>

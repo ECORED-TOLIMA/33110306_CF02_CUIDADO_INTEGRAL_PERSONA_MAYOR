@@ -194,7 +194,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3 Técnicas de limpieza y desinfección
     p(data-aos="fade-down") Las técnicas de limpieza y desinfección permiten mantener las superficies y los elementos del entorno de cuidado en condiciones adecuadas de higiene. Su aplicación debe realizarse de forma organizada, respetando la secuencia del procedimiento y las indicaciones correspondientes a cada producto y superficie.
-    p.mb-4(data-aos="fade-down") La técnica debe adaptarse al tipo de superficie, al nivel de suciedad y a las características del entorno. El cuidador debe seguir siempre los protocolos establecidos y las instrucciones específicas de los productos, evitando improvisar concentraciones o procedimientos.
+    //- p.mb-4(data-aos="fade-down") La técnica debe adaptarse al tipo de superficie, al nivel de suciedad y a las características del entorno. El cuidador debe seguir siempre los protocolos establecidos y las instrucciones específicas de los productos, evitando improvisar concentraciones o procedimientos.
     .row.justify-content-center.align-items-center.px-3.mb-4(data-aos="flip-up")
       AcordionA.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta-c03" data-aos="zoom-in")
         .row.justify-content-center(titulo="a) Técnica de limpieza")
