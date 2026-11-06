@@ -47,49 +47,49 @@
         .tarjeta.bg03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/t5/img05.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/t5/img21.svg' alt='AvatarTop')
           h4.text-center Tono de voz adecuado
           br
           p.text-center Hablar con claridad y un volumen que facilite la comprensión, sin gritar.
         .tarjeta.bg03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/t5/img05.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/t5/img22.svg' alt='AvatarTop')
           h4.text-center Dar tiempo para responder
           br
           p.text-center Permitir que la persona procese la información y exprese su respuesta sin apresurarla.
         .tarjeta.bg03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/t5/img05.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/t5/img23.svg' alt='AvatarTop')
           h4.text-center Confirmar la comprensión
           br
           p.text-center Solicitar que la persona indique si comprendió la información o repetirla de otra manera cuando sea necesario.
         .tarjeta.bg03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/t5/img05.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/t5/img24.svg' alt='AvatarTop')
           h4.text-center Comunicación no verbal
           br
           p.text-center Prestar atención a gestos, expresiones faciales, postura y otros elementos que complementan el mensaje.
         .tarjeta.bg03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/t5/img05.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/t5/img25.svg' alt='AvatarTop')
           h4.text-center Respeto por las preferencias
           br
           p.text-center Considerar la forma en que la persona prefiere comunicarse y dirigirse a ella de manera respetuosa.
         .tarjeta.bg03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/t5/img05.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/t5/img26.svg' alt='AvatarTop')
           h4.text-center Evitar infantilizar
           br
           p.text-center Utilizar un trato acorde con la edad, personalidad y dignidad de la persona mayor.
         .tarjeta.bg03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/t5/img05.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/t5/img27.svg' alt='AvatarTop')
           h4.text-center Facilitar la expresión
           br
           p.text-center Formular preguntas abiertas cuando se requiera conocer opiniones, necesidades o preferencias.

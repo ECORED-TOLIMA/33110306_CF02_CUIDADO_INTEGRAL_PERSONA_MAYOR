@@ -300,22 +300,12 @@
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img34.svg", alt="").img100.m-auto
-                  p.text-center  Suspender la movilización si aparecen dolor intenso, mareo, dificultad respiratoria, debilidad repentina u otra manifestación que comprometa la seguridad.
+                  p.text-center Suspender la movilización si aparecen dolor intenso, mareo, dificultad respiratoria, debilidad repentina u otra manifestación que comprometa la seguridad.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img35.svg", alt="").img100.m-auto
                   p.text-center Solicitar apoyo cuando la movilización supere las capacidades físicas del cuidador o requiera conocimientos o procedimientos especializados.
-                .tarjeta.tarjeta--slyder.p-4.py-2
-                  .row.justify-content-center.mb-3
-                    .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img36.svg", alt="").img100.m-auto
-                  p.text-center Mantener la privacidad y dignidad de la persona durante todo el procedimiento.
-                .tarjeta.tarjeta--slyder.p-4.py-2
-                  .row.justify-content-center.mb-3
-                    .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img37.svg", alt="").img100.m-auto
-                  p.text-center Suspender la movilización si aparecen dolor intenso, mareo, dificultad respiratoria, debilidad repentina u otra manifestación que comprometa la seguridad.
     .row.justify-content-center.align-items-center.mb-4
       .cajon.cajon.c01.color-secundario.px-4.py-3
         .row.justify-content-center.align-items-center
